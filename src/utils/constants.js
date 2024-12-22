@@ -1,0 +1,51 @@
+import CardImage from "../assets/images/card-image.png";
+export const cardArray = [
+  {
+    id: 0,
+    title: "Первый материал 2й сорт",
+    price: "170 ₽",
+    address: "Казань, р-н Вахитовский",
+    date: "10 июля 11:39",
+    image: CardImage,
+  },
+  {
+    id: 1,
+    title: "Второй материал 2й сорт",
+    price: "175 ₽",
+    address: "Казань, р-н Вахитовский",
+    date: "10 июля 11:39",
+    image: CardImage,
+  },
+  {
+    id: 2,
+    title: "Третий материал 2й сорт",
+    price: "179 ₽",
+    address: "Казань, р-н Вахитовский",
+    date: "10 июля 11:39",
+    image: CardImage,
+  },
+  {
+    id: 3,
+    title: "Четвертый материал 2й сорт",
+    price: "105 ₽",
+    address: "Казань, р-н Вахитовский",
+    date: "10 июля 11:39",
+    image: CardImage,
+  },
+  {
+    id: 4,
+    title: "Пятый материал 2й сорт",
+    price: "155 ₽",
+    address: "Казань, р-н Вахитовский",
+    date: "10 июля 11:39",
+    image: CardImage,
+  },
+  {
+    id: 5,
+    title: "Шестой материал 2й сорт",
+    price: "145 ₽",
+    address: "Казань, р-н Вахитовский",
+    date: "10 июля 11:39",
+    image: CardImage,
+  },
+];
